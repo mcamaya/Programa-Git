@@ -5,3 +5,5 @@ Soy **Camila Amaya**, aprendiz del programa **ADSO (Análisis y Desarrollo de So
 Este repositorio contiene mis **primeras evidencias de aprendizaje sobre Git**, desarrolladas dentro del componente formativo de **Integración Continua**.
 
 🚀 Aquí trabajo con repositorios locales y remotos en GitHub.
+
+Este es un cambio para otro commit
